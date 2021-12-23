@@ -1,0 +1,15 @@
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/bin/Debug/net5.0/ServerPipe.deps.json
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/bin/Debug/net5.0/ServerPipe.runtimeconfig.json
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/bin/Debug/net5.0/ServerPipe.runtimeconfig.dev.json
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/bin/Debug/net5.0/ServerPipe.dll
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/bin/Debug/net5.0/ref/ServerPipe.dll
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/bin/Debug/net5.0/ServerPipe.pdb
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/obj/Debug/net5.0/ServerPipe.csprojAssemblyReference.cache
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/obj/Debug/net5.0/ServerPipe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/obj/Debug/net5.0/ServerPipe.AssemblyInfoInputs.cache
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/obj/Debug/net5.0/ServerPipe.AssemblyInfo.cs
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/obj/Debug/net5.0/ServerPipe.csproj.CoreCompileInputs.cache
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/obj/Debug/net5.0/ServerPipe.dll
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/obj/Debug/net5.0/ref/ServerPipe.dll
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/obj/Debug/net5.0/ServerPipe.pdb
+/Users/sveta/Documents/BGTU/os/PipesLesson/ServerPipe/obj/Debug/net5.0/ServerPipe.genruntimeconfig.cache

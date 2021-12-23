@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerPipe", "ServerPipe\ServerPipe.csproj", "{76EF050D-0919-4B16-A99A-909571DEFF4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientPipe", "ClientPipe\ClientPipe.csproj", "{72A7E905-7BEA-4319-ABA5-2CBC0B3068CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76EF050D-0919-4B16-A99A-909571DEFF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EF050D-0919-4B16-A99A-909571DEFF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EF050D-0919-4B16-A99A-909571DEFF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EF050D-0919-4B16-A99A-909571DEFF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A7E905-7BEA-4319-ABA5-2CBC0B3068CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A7E905-7BEA-4319-ABA5-2CBC0B3068CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A7E905-7BEA-4319-ABA5-2CBC0B3068CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A7E905-7BEA-4319-ABA5-2CBC0B3068CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
